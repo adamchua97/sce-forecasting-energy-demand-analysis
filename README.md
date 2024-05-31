@@ -3,7 +3,7 @@
 ## Overview:
 This project analyzes and forecasts the overall energy consumption of SoCal Edison customers. Forecasts are projected for 2024.Q1 to 2025.Q2. Analysis also includes the distribution of consumption between the types of customers. Predictions are made for total combined energy consumption for all SoCal Edison customers and also by county. The objective is to develop a comprehensive system to forecast future energy requirements by county, supporting SCE in infrastructure development and resource allocation. This project also aims to create customized energy-saving programs for areas with high energy usage.
 
-*Data used is from SoCal Edison energy reports available for public access. Data was merged with a Southern California Zip Code dataset to categorize customers into associated counties.*
+*Data used is from SoCal Edison energy reports available for public access. Data was merged with a Southern California Zip Code dataset to categorize and group customers' zip codes into associated counties.*
 
 ## Tools & Technologies Used:
 - **Python:** the core tool utilized in this project, along with the required data analysis and machine learning libraries.
