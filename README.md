@@ -12,7 +12,7 @@ This project analyzes and forecasts the overall energy consumption of SoCal Edis
 
 ## View Tableau Dashboard: https://public.tableau.com/views/CPPDATeamSCEProjectDashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 ### Preview:
-!(tableau_project_dashboard.png)
+![DA Team SCE Project Dashboard](tableau_project_dashboard.png)
 ## View Project Code:
 ### - [Total Combined Energy Forecast Model](https://github.com/adamchua97/sce-forecasting-energy-demand-analysis/blob/main/sarimax_model.ipynb)
 ### - [County Forecasting Models](https://github.com/adamchua97/sce-forecasting-energy-demand-analysis/tree/main/sce_county_forecasts)
