@@ -17,3 +17,6 @@ This project analyzes and forecasts the overall energy consumption of SoCal Edis
 ### - [Total Combined Energy Forecast Model](https://github.com/adamchua97/sce-forecasting-energy-demand-analysis/blob/main/sarimax_model.ipynb)
 ### - [County Forecasting Models](https://github.com/adamchua97/sce-forecasting-energy-demand-analysis/tree/main/sce_county_forecasts)
 ### - [Time Decomposition Model For Seasonality & Trends Analysis](https://github.com/adamchua97/sce-forecasting-energy-demand-analysis/blob/main/time_decomposition_model.ipynb)
+
+## Summarized Research on Political & External Factors Affecting Energy Consumption in SCE Customers in California:
+## - [Presentation Link](https://docs.google.com/presentation/d/1PUn2eLCF3KBeIE1hjyLu1G7EbrfTC7b8rp3-ABbfjzA/edit?usp=sharing)
