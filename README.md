@@ -8,9 +8,11 @@ This project analyzes and forecasts the overall energy consumption of SoCal Edis
 ## Tools & Technologies Used:
 - **Python:** the core tool utilized in this project, along with the required data analysis and machine learning libraries.
 
-## View Project Presentation & Analysis: [SoCal Edison Forecasting Energy Models & Strategies](https://docs.google.com/presentation/d/1sR1rW84EqTw05AtBUeik8HTe1tzZBlPAB_XILUAd78w/edit?usp=sharing)
+## View Project Presentation & Analysis:
+- [SoCal Edison Forecasting Energy Models & Strategies](https://docs.google.com/presentation/d/1sR1rW84EqTw05AtBUeik8HTe1tzZBlPAB_XILUAd78w/edit?usp=sharing)
 
-## View Tableau Dashboard: https://public.tableau.com/views/CPPDATeamSCEProjectDashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+## View Tableau Dashboard:
+- [Tableau Link](https://public.tableau.com/views/CPPDATeamSCEProjectDashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 ### Preview:
 ![DA Team SCE Project Dashboard](tableau_project_dashboard.png)
 ## View Project Code:
