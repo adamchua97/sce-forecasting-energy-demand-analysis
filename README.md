@@ -12,7 +12,7 @@
 - [SoCal Edison Forecasting Energy Models & Strategies](https://docs.google.com/presentation/d/1sR1rW84EqTw05AtBUeik8HTe1tzZBlPAB_XILUAd78w/edit?usp=sharing)
 
 ## View Tableau Dashboard:
-- [Tableau Link](https://public.tableau.com/views/CPPDATeamSCEProjectDashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+- [Tableau Dashbaord Link](https://public.tableau.com/views/CPPDATeamSCEProjectDashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 ### Preview:
 ![DA Team SCE Project Dashboard](tableau_project_dashboard.png)
 ## View Project Code:
@@ -25,4 +25,4 @@
 
 ## View Energy Conservation Assistance Act Data Dashboard
 - The California Energy Commission’s [Energy Conservation Assistance Act (ECAA)](https://www.energy.ca.gov/programs-and-topics/programs/energy-conservation-assistance-act) offers zero-interest rate loans to public schools and 1 percent rate loans to public entities and California Native American Tribes. Loans finance , energy efficiency and energy generation projects, energy storage systems, and electric vehicle charging infrastructure.
-- [Tableau Link](https://public.tableau.com/app/profile/adam.chua4816/viz/ECAA2025Dashboard/Dashboard1)
+- [Tableau Dashboard Link](https://public.tableau.com/app/profile/adam.chua4816/viz/ECAA2025Dashboard/Dashboard1)
