@@ -26,3 +26,5 @@
 ## View Energy Conservation Assistance Act Data Dashboard
 - The California Energy Commission’s [Energy Conservation Assistance Act (ECAA)](https://www.energy.ca.gov/programs-and-topics/programs/energy-conservation-assistance-act) offers zero-interest rate loans to public schools and 1 percent rate loans to public entities and California Native American Tribes. Loans finance , energy efficiency and energy generation projects, energy storage systems, and electric vehicle charging infrastructure.
 - [Tableau Dashboard Link](https://public.tableau.com/app/profile/adam.chua4816/viz/ECAA2025Dashboard/Dashboard1)
+### Preview:
+![ECAA Dashboard Preview](ecaa25_dashb.png)
