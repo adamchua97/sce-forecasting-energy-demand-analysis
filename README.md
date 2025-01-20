@@ -12,7 +12,7 @@
 - [SoCal Edison Forecasting Energy Models & Strategies](https://docs.google.com/presentation/d/1sR1rW84EqTw05AtBUeik8HTe1tzZBlPAB_XILUAd78w/edit?usp=sharing)
 
 ## View Descriptive Analysis Dashboard:
-- [Tableau Dashbaord Link](https://public.tableau.com/views/CPPDATeamSCEProjectDashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+- [Tableau Dashboard Link](https://public.tableau.com/views/CPPDATeamSCEProjectDashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 ### Preview:
 ![DA Team SCE Project Dashboard](tableau_project_dashboard.png)
 ## View Project Code:
