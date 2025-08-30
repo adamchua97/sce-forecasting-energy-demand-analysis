@@ -1,12 +1,15 @@
 # Forecasting Energy Demands for SoCal Edison (2025.Q1-2025.Q4)
 
 ## Overview:
-- This project analyzes and forecasts the overall energy consumption of SoCal Edison customers. **Forecasts are projected for 2025.Q1 to 2025.Q4**. Analysis also includes the distribution of consumption between the types of customers. Predictions are made for total combined energy consumption for all SoCal Edison customers and also by county. The objective is to develop a comprehensive system to forecast future energy requirements by county, supporting SCE in infrastructure development and resource allocation. This project also aims to create customized energy-saving programs for areas with high energy usage.
+- This project analyzes and forecasts the overall energy consumption of SoCal Edison customers. **Forecasts are projected for 2025.Q1 to 2025.Q4**. Analysis also includes the distribution of consumption between the types of customers. Forecasts are made for total combined energy consumption for all SoCal Edison customers and also by county. The objective is to develop a comprehensive system to forecast future energy requirements by county, supporting SCE in infrastructure development and resource allocation. This project also aims to create customized energy-saving programs for areas with high energy usage.
 
 - Data used is from SoCal Edison energy reports available for public access. Data was merged with a Southern California Zip Code dataset to categorize and group customers' zip codes into associated counties.
 
 ## Tools & Technologies Used:
 - **Python:** the core tool utilized in this project, along with the required data analysis and machine learning libraries.
+- **Forecasting Models:**
+  - ARIMA (AutoRegressive Integrated Moving Average): A widely used time series forecasting technique that combines autoregression, differencing, and moving averages to capture trends and short-term dependencies in energy consumption data.
+  - SARIMAX (Seasonal AutoRegressive Integrated Moving Average with eXogenous factors): An extension of ARIMA that accounts for seasonality and external variables, making it effective for modeling repeating seasonal energy usage patterns.
 
 ## View Project Presentation & Analysis:
 - [SoCal Edison Forecasting Energy Models & Strategies](https://docs.google.com/presentation/d/1sR1rW84EqTw05AtBUeik8HTe1tzZBlPAB_XILUAd78w/edit?usp=sharing)
