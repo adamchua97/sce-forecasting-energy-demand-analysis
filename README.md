@@ -8,8 +8,8 @@
 ## Tools & Technologies Used:
 - **Python:** the core tool utilized in this project, along with the required data analysis and machine learning libraries.
 - **Forecasting Models:**
-  - ARIMA (AutoRegressive Integrated Moving Average): A widely used time series forecasting technique that combines autoregression, differencing, and moving averages to capture trends and short-term dependencies in energy consumption data.
-  - SARIMAX (Seasonal AutoRegressive Integrated Moving Average with eXogenous factors): An extension of ARIMA that accounts for seasonality and external variables, making it effective for modeling repeating seasonal energy usage patterns.
+  - **ARIMA (AutoRegressive Integrated Moving Average)**: A widely used time series forecasting technique that combines autoregression, differencing, and moving averages to capture trends and short-term dependencies in energy consumption data.
+  - **SARIMAX (Seasonal AutoRegressive Integrated Moving Average with eXogenous factors)**: An extension of ARIMA that accounts for seasonality and external variables, making it effective for modeling repeating seasonal energy usage patterns.
 
 ## View Project Presentation & Analysis:
 - [SoCal Edison Forecasting Energy Models & Strategies](https://docs.google.com/presentation/d/1sR1rW84EqTw05AtBUeik8HTe1tzZBlPAB_XILUAd78w/edit?usp=sharing)
